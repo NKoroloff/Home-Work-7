@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="150a4068-1625-4228-b6e3-88cf4f5905ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ES 5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ES 5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ES 5/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/ES 5/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ES 6/Interface.js" beforeDir="false" afterPath="$PROJECT_DIR$/ES 6/Interface.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ES 6/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/ES 6/init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ES 6/tests/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/ES 6/tests/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ES 6/tests/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/ES 6/tests/test.js" afterDir="false" />
-    </list>
+    <list default="true" id="150a4068-1625-4228-b6e3-88cf4f5905ac" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +26,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ES 5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../тесты/calcJS" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -90,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571762274619</updated>
       <workItem from="1571762275856" duration="1686000" />
-      <workItem from="1571764156207" duration="40117000" />
+      <workItem from="1571764156207" duration="40739000" />
     </task>
     <servers />
   </component>

@@ -23,6 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function pushToPresentation() {
         let pushInput = document.getElementById('push__input').value;
+        console.log(pushInput)
         let nodeRoot = document.getElementsByClassName("lList-noda");
         nodeRoot[0].insertAdjacentHTML("beforeend",
             `<div class="nodes">${pushInput} </div>`);
@@ -39,9 +40,5 @@ document.addEventListener("DOMContentLoaded", () => {
 
         //lList.pop();
     };
-
-
-
-
 });
 
